@@ -1,0 +1,14 @@
+@charset "shift_jis";
+
+/* Typography Setting
+--------------------------------------------------*/
+body{margin: 0;
+	 padding: 0;}
+
+/* Link Color 
+--------------------------------------------------*/
+.g-cmn a:link {text-decoration: underline; color: #0070CB;}
+.g-cmn a:visited {text-decoration: underline; color: #800080;}
+.g-cmn a:hover {text-decoration: underline; color: #f00;}
+
+
