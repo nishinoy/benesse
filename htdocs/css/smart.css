@@ -227,7 +227,12 @@ ul.header2 li.login img{
 
 ul.header2 li.offer{
 	width:21%;	
-	padding-top:10px;
+	padding-top:0px;
+}
+
+ul.header2 li.free{
+	width:21%;	
+	padding-top:15px;
 }
 
 ul.header2 li.offer img{
@@ -303,11 +308,22 @@ p.order2{
 	
 }
 
+p.free2{
+	clear:both;
+	padding-top:5px;
+	margin-left:12px;
+	margin-right:12px;
+	
+}
+
+
 p.order2 img{
 	width:100%;
 }
 
-
+p.free2 img{
+	width:100%;
+}
 
 /*--guide--*/
 h1.guide01{

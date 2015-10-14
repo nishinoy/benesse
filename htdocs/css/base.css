@@ -143,7 +143,7 @@ div.headerPC div p.offer_s{
 	position:absolute;
 	right:28px;
 	top:10px;
-	
+
 }
 
 /*--g_navi--*/
@@ -176,7 +176,7 @@ div.h_navi ul.navi li.last img{
 
 div.mainPC{
 	background-color:#22509c;
-	height:110px;
+	height:140px;
 }
 
 div.mainPC div{
@@ -189,13 +189,19 @@ div.mainPC div{
 div.mainPC div p.service{
 	position:absolute;
 	left:40px;
-	top:21px;
+	top:35px;
 }
 
 div.mainPC div p.offer{
 	position:absolute;
 	right:35px;
 	top:20px;
+}
+
+div.mainPC div p.free{
+	position:absolute;
+	right:35px;
+	top:75px;
 }
 
 div.mainPC div p.offer2{
