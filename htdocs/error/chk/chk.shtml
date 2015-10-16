@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="ja">
+<HEAD>
+<META HTTP-EQUIV="content-type" content="text/html; charset=Shift_JIS">
+<TITLE>エラー：コンテンツサーバ稼動チェック</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF>
+<TD>　<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+    <tr>
+      <td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF">
+      <font size="2" color="#C0C0C0">
+<B><!--#exec cgi="/err-cgi/sv.cgi"--></B>
+<B><!--#exec cgi="/err-cgi/cnt.cgi"--></B>
+</font><FONT COLOR=#FF0000>
+</TD>
+</font>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF" align="center"><img border="0" src="/error/img/logo.gif" width="124" height="24"></td>
+    </tr>
+    <tr>
+      <td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF" align="center"><img border="0" src="/error/img/cr02.jpg" width="77" height="103"><img border="0" src="/error/img/cr05.jpg" width="55" height="102"><img border="0" src="/error/img/cr08.jpg" width="77" height="103"><img border="0" src="/error/img/cr04.jpg" width="67" height="96"><img border="0" src="/error/img/cr03.jpg" width="72" height="103"><img border="0" src="/error/img/cr07.jpg" width="67" height="110"><img border="0" src="/error/img/cr06.jpg" width="68" height="102"></td>
+    </tr>
+    <tr>
+      <td width="100%" bgcolor="#FFFFFF" bordercolor="#FFFFFF" align="center"><img border="0" src="/error/img/title_picture2.gif" width="155" height="150"></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<p>　</p>
+<p>　</p>
+</BODY>
+</HTML>
