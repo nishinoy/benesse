@@ -45,6 +45,7 @@ html>/**/body {
 
 .clearfix {
 	zoom:1;
+	display: block;
 }
 .clearfix:after {
 	content: "";
@@ -128,7 +129,6 @@ html>/**/body {
 .pdL10{
 	padding-left:10px;	
 }
-
 
 .clear{
 	clear:both;
