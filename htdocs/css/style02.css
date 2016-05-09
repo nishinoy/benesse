@@ -292,7 +292,7 @@ section {
 
 p.lead {
 	font-size:1.1em !important;
-	width:83%;
+	width:90%;
 	margin:0 auto 20px;
 }
 
@@ -383,12 +383,12 @@ p.lead {
 }
 
 .prof {
-	width:150px;
+	width:170px;
 	margin:0 10px;
 }
 
 .photo img {
-	width:140px;
+	width:120px;
 	height:auto;
 	margin-right:10px;
 }
@@ -399,7 +399,7 @@ p.lead {
 
 .prof p.name {
 	height:auto;
-	font-size:20px;
+	font-size:18px;
 }
 
 .prof p.name span {
